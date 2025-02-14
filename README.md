@@ -1,4 +1,4 @@
-# Custom wc Utility - Rust
+# Custom wc Utility tool- Rust
 
 A Rust-based implementation of the Unix `wc` (word count) command, which counts the number of lines, words, and characters in a file.
 
